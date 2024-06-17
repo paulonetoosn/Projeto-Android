@@ -55,6 +55,7 @@ header > h1 {
 
 header > p {
     color: white;
+    padding-bottom: 50px;
 }
 
 nav {
